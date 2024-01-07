@@ -68,12 +68,18 @@ async def cb_handler(client, query: CallbackQuery):
     elif data == "help":
         await query.message.edit_text(
             text=Txt.HELP_TXT,
-            disable_web_page_preview=True
+            disable_web_page_preview=True,
+            reply_markup=InlineKeyboardMarkup([[
+             InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
+            ]])            
         )
     elif data == "about":
         await query.message.edit_text(
             text=Txt.ABOUT_TXT.format(client.mention),
-            disable_web_page_preview = True
+            disable_web_page_preview = True,
+            reply_markup=InlineKeyboardMarkup([[
+             InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
+            ]])            
     
         )
     elif data == "close":
