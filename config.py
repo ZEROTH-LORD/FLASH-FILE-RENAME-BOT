@@ -57,15 +57,15 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @ZEROTHx2 💞</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 Mʏ Nᴀᴍᴇ : {}
-├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/ZEROTHx2>Aʟᴘʜᴀ Zᴇʀᴏᴛʜ</a> 
-├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
-├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
-├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ Dʙ</a>
-├👑 Pᴏᴡᴇʀᴇᴅ Bʏ: <a href=https://t.me/ALPHA_x_NETWORK>Aʟᴘʜᴀ Nᴇᴛᴡᴏʀᴋ</a></b>     
+├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀ : <a href=https://t.me/ZEROTHx2>Aʟᴘʜᴀ Zᴇʀᴏᴛʜ</a> 
+├📕 Lɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
+├✏️ Lᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
+├💾 Dᴀᴛᴀ Bᴀꜱᴇ : <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ Dʙ</a>
+├👑 Pᴏᴡᴇʀᴇᴅ Bʏ : <a href=https://t.me/ALPHA_x_NETWORK>Aʟᴘʜᴀ Nᴇᴛᴡᴏʀᴋ</a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
-🌌 <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴɪʟᴇ</u></b>
+🌌 <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴᴀɪʟ</u></b>
   
 <b>•»</b> /start Tʜᴇ Bᴏᴛ Aɴᴅ Sᴇɴᴅ Aɴʏ Pʜᴏᴛᴏ Tᴏ Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ Sᴇᴛ Tʜᴜᴍʙɴɪʟᴇ.
 <b>•»</b> /del_thumb Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Tᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Oʟᴅ Tʜᴜᴍʙɴɪʟᴇ.
